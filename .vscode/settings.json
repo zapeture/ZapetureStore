@@ -1,0 +1,15 @@
+{
+  "git.ignoreLimitWarning": true,
+  "rest-client.certificates": {},
+  "rest-client.defaultHeaders": {
+    "User-Agent": "vscode-restclient"
+  },
+  "rest-client.environmentVariables": {
+    "local": {
+      "url": "http://localhost:5000",
+      "auth": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYwOGVlMDE5OTQ0N2JjMjczNDQ3YjUzMiIsImlhdCI6MTYyMTI0MTg4MiwiZXhwIjoxNjIyMTA1ODgyfQ._1gnVnFBNcXIFIEL2pv4Dud66nhg_jGvMBS_xkZ6vzc",
+      "password": "00000000"
+    },
+    "$shared": {}
+  }
+}
